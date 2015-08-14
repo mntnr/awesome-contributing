@@ -4,5 +4,4 @@ This is a list of awesome contribute files.
 
 # Contribute
 
-If you know of any, add 'em here!
-
+[Rust Programming Language](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
