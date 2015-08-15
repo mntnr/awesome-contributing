@@ -2,7 +2,7 @@
 
 This is a list of awesome contribute files.
 
- - [Rust Programming Language](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)
+ - [Rust Programming Language](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md) A very complete contributing guide - @[sirodoht](https://github.com/sirodoht)
 
 # Contribute
 
