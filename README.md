@@ -3,11 +3,3 @@
 This is a list of awesome contribute files.
 
  - [Rust Programming Language](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md) _A very complete contributing guide._ - [@sirodoht](https://github.com/sirodoht)
-
-# Contribute
-
-If you have any to contribute, please add them here!.
-
-Please use the format:
-
-  ` - [Name](link) _Comment on why it is awesome._ - [@YourName](https://github.com/YourName)`.
