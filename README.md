@@ -4,6 +4,7 @@
 
 ## Examples
 
+- [atom/atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) _An extensive Contributing guide that is particularly good at answering questions by new users before they know enough to ask them._ - [@RichardLitt](https://github.com/RichardLitt)
 - [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails/blob/master/CONTRIBUTING.md) _Short and sweet_. - [@RichardLitt](https://github.com/RichardLitt)
 - [Pacote](https://github.com/zkat/pacote/blob/latest/CONTRIBUTING.md) _This is a pretty awesome example of a contributing file._ - [@dignifiedquire](https://github.com/dignifiedquire)
 - [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md) _A very accessible guide. The additional resources list is especially helpful_. - [@RichardLitt](https://github.com/RichardLitt)
