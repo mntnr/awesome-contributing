@@ -12,7 +12,7 @@
 
 ## Templates
 
-[The @Contribute-md Template](https://github.com/contribute-md/contribute-md-template) is detailed and cohesive, and should work for most projects.
+The [@Contribute-md Template](https://github.com/contribute-md/contribute-md-template) is detailed and cohesive, and should work for most projects.
 
 ## Guides to writing a Contribute.md document
 
