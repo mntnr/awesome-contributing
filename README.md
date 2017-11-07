@@ -10,6 +10,7 @@
 - [Pacote](https://github.com/zkat/pacote/blob/latest/CONTRIBUTING.md) _This is a pretty awesome example of a contributing file._ - [@dignifiedquire](https://github.com/dignifiedquire)
 - [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md) _A very accessible guide. The additional resources list is especially helpful_. - [@RichardLitt](https://github.com/RichardLitt)
 - [Rust Programming Language](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md) _A very complete contributing guide._ - [@sirodoht](https://github.com/sirodoht)
+- [donet/corefix](https://github.com/dotnet/corefx/blob/master/Documentation/project-docs/contributing.md) _A short and concise contributing file._ - [@jzeferino](https://github.com/jzeferino)
 
 ## Templates
 
