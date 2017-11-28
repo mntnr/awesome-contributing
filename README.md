@@ -15,6 +15,8 @@
 
 The [@Contribute-md Template](https://github.com/contribute-md/contribute-md-template) is detailed and cohesive, and should work for most projects.
 
+[We All Contribute](https://github.com/WeAllJS/weallcontribute) is a JavaScript CLI tool that can help you create Contribute files according to their guidelines.
+
 ## Guides to writing a Contribute.md document
 
 [GitHub guide here](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) and [here](https://github.com/blog/1184-contributing-guidelines) are useful. GitHub [automatically opens](https://github.com/blog/1184-contributing-guidelines) up a banner pointing to a `Contribute.md` file. This means that anyone who opens an issue or a pull request will know to check your Contributing guidelines. Newcomers will be the main target - experienced users will have memorized anything in your Contribute, and won't need it to guide them. Because of this, you want to make sure it is as accessible as possible.
